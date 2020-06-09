@@ -1,5 +1,5 @@
 brazoria|https://simplye.amigos.org/txbrazoria
-xyzlib|http://simplye-dev-cm.amigos.org/xyzlib
+xyzlib|https://simplye-dev-cm.amigos.org/xyzlib
 openebooks|https://circulation.openebooks.us/USOEI
 clp|https://clp.lyrasistechnology.org/clp
 columbia|https://demo.lyrasistechnology.org/columbia
