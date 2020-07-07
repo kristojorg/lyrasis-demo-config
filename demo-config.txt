@@ -3,3 +3,4 @@ NYU|https://demo.lyrasistechnology.org/NYU
 ORL|https://demo.lyrasistechnology.org/ORL
 columbia|https://demo.lyrasistechnology.org/columbia
 OAPEN|https://demo.lyrasistechnology.org/OAPEN
+howard|https://howard.simplye-md.org/MDHOWRDCTLIB
