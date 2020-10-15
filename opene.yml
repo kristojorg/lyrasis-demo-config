@@ -1,5 +1,6 @@
 --- 
 companion_app: openebooks
+show_medium: false
 libraries: 
   o: "https://circulation.openebooks.us/USOEI/groups"
   qa: "https://qa-circulation.openebooks.us/USOEI/groups"
