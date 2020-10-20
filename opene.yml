@@ -3,8 +3,5 @@ show_medium: false
 libraries: 
   o: "https://circulation.openebooks.us/USOEI/groups"
   qa: "https://qa-circulation.openebooks.us/USOEI/groups"
-  highschool: "https://qa-circulation.openebooks.us/USOEI/groups/406"
-  middlegrades: "https://qa-circulation.openebooks.us/USOEI/groups/417"
-  earlygrades: "https://qa-circulation.openebooks.us/USOEI/groups/429"
 media_support: 
   application/vnd.librarysimplified.axisnow+json: show
