@@ -2,6 +2,5 @@ companion_app: openebooks
 show_medium: false
 libraries: 
   app: "https://qa-circulation.openebooks.us/USOEI/groups"
-  local: "http://localhost:6500/USOEI/groups"
 media_support: 
   application/vnd.librarysimplified.axisnow+json: show
