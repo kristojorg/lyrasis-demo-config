@@ -2,6 +2,6 @@ companion_app: openebooks
 show_medium: false
 libraries: 
   app: "https://qa-circulation.openebooks.us/USOEI/groups"
-  new_server: "http://opene-ecsal-1mpiaya875aem-1705078994.us-east-1.elb.amazonaws.com/USOEI/groups"
+  new_server: "http://opene-ecsal-1mpiaya875aem-1705078994.us-east-1.elb.amazonaws.com/"
 media_support: 
   application/vnd.librarysimplified.axisnow+json: show
