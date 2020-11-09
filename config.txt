@@ -1,9 +1,0 @@
-brazoria|https://simplye.amigos.org/txbrazoria
-xyzlib|https://simplye-dev-cm.amigos.org/xyzlib
-openebooks|https://circulation.openebooks.us/USOEI
-clp|https://clp.lyrasistechnology.org/clp
-columbia|https://demo.lyrasistechnology.org/columbia
-stmary|https://smrla.simplye-md.org/MDMARY
-nyu|https://demo.lyrasistechnology.org/NYU
-howard|https://howard.simplye-md.org/MDHOWRDCTLIB
-nypl|http://qa.circulation.librarysimplified.org/QANYPL/groups
